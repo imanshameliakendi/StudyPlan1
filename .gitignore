@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.venv/
+.env
+storage/uploads/
+storage/*.db
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+.DS_Store
